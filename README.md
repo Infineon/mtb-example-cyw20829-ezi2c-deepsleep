@@ -4,7 +4,7 @@ This code example demonstrates the operation of the EzI2C resource in Deep Sleep
 
 [View this README on GitHub.](https://github.com/Infineon/mtb-example-cyw20829-ezi2c-deepsleep)
 
-[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyMzkzMjMiLCJTcGVjIE51bWJlciI6IjAwMi0zOTMyMyIsIkRvYyBUaXRsZSI6IkV6STJDIERlZXAgU2xlZXAiLCJyaWQiOiJndXB0YXJpIiwiRG9jIHZlcnNpb24iOiIxLjAuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJJQ1ciLCJEb2MgRmFtaWx5IjoiQlRBQkxFIn0=)
+[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyMzkzMjMiLCJTcGVjIE51bWJlciI6IjAwMi0zOTMyMyIsIkRvYyBUaXRsZSI6IkV6STJDIERlZXAgU2xlZXAiLCJyaWQiOiJndXB0YXJpIiwiRG9jIHZlcnNpb24iOiIxLjEuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJJQ1ciLCJEb2MgRmFtaWx5IjoiQlRBQkxFIn0=)
 
 ## Requirements
 
@@ -288,7 +288,7 @@ Document title: *CE239323* – *EzI2C Deep Sleep*
  Version | Description of change
  ------- | ---------------------
  1.0.0   | New code example
-
+ 1.1.0   | Update MPN from CYW20829B0LKML to CYW20829B1010
 <br>
 
 ---------------------------------------------------------
